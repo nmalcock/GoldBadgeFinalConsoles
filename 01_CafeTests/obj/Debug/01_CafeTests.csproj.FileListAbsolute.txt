@@ -1,0 +1,16 @@
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\obj\Debug\01_CafeTests.csproj.AssemblyReference.cache
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\obj\Debug\01_CafeTests.csproj.CoreCompileInputs.cache
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\bin\Debug\01_CafeTests.dll
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\bin\Debug\01_CafeTests.pdb
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\bin\Debug\01_Cafe.dll
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\bin\Debug\01_Cafe.pdb
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\obj\Debug\01_CafeTests.csproj.CopyComplete
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\obj\Debug\01_CafeTests.dll
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\01_CafeTests\obj\Debug\01_CafeTests.pdb

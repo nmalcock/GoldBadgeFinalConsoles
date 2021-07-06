@@ -7,7 +7,7 @@
     <ProjectGuid>{3294CBAE-6B40-402E-BD5F-F97CFB95FC22}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_01_CafeUI</RootNamespace>
-    <AssemblyName>_01_CafeUI</AssemblyName>
+    <AssemblyName>01_CafeUI</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,10 +44,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
+    <Compile Include="ProgramUI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\01_Cafe\01_Cafe.csproj">
+      <Project>{9AD8A6C3-4D29-47B2-B72C-81622D2574CC}</Project>
+      <Name>01_Cafe</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

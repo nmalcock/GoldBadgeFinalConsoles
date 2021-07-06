@@ -1,0 +1,5 @@
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_Claims\bin\Debug\02_Claims.dll
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_Claims\bin\Debug\02_Claims.pdb
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_Claims\obj\Debug\02_Claims.csproj.CoreCompileInputs.cache
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_Claims\obj\Debug\02_Claims.dll
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_Claims\obj\Debug\02_Claims.pdb
