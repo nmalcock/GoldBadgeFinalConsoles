@@ -1,0 +1,10 @@
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_ClaimsUI\bin\Debug\02_ClaimsUI.exe.config
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_ClaimsUI\bin\Debug\02_ClaimsUI.exe
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_ClaimsUI\bin\Debug\02_ClaimsUI.pdb
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_ClaimsUI\bin\Debug\02_Claims.dll
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_ClaimsUI\bin\Debug\02_Claims.pdb
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_ClaimsUI\obj\Debug\02_ClaimsUI.csproj.AssemblyReference.cache
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_ClaimsUI\obj\Debug\02_ClaimsUI.csproj.CoreCompileInputs.cache
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_ClaimsUI\obj\Debug\02_ClaimsUI.csproj.CopyComplete
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_ClaimsUI\obj\Debug\02_ClaimsUI.exe
+C:\Users\nalco\Desktop\ElevenFiftyProjects\Assignments\GoldBadgeFinal\GoldBadgeFinal\02_ClaimsUI\obj\Debug\02_ClaimsUI.pdb

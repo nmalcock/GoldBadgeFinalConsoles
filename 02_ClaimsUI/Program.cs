@@ -10,6 +10,8 @@ namespace _02_ClaimsUI
     {
         static void Main(string[] args)
         {
+            ProgramUI ui = new ProgramUI();
+            ui.Run();
         }
     }
 }
