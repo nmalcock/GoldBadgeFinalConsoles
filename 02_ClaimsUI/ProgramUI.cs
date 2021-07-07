@@ -117,29 +117,24 @@ namespace _02_ClaimsUI
 
             
             bool getType = true;
-
+            ClaimType newType = new ClaimType();
             while (getType == true)
             {
                 Console.Write("Enter the claim type: ");
                 string type = Console.ReadLine();
-                if (type.ToLower() == "car")
+                if (type.ToLower() == "car") 
                 {
-                    //var newType = 1;
-                    //int claimTypeNum = 1;
+                    newType = ClaimType.Car;
                     getType = false;
                 }
                 else if (type.ToLower() == "home")
                 {
-                    //var newType = 2;
-                    //int claim = (int)ClaimType.Home;
-                    //int claimTypeNum = 2;
+                    newType = ClaimType.Home;
                     getType = false;
                 }
                 else if (type.ToLower() == "theft")
                 {
-                    //var newType = 3;
-                    //newType = ClaimType.Theft;
-                    //int claimTypeNum = 3;
+                    newType = ClaimType.Theft;
                     getType = false;
                 }
                 else
@@ -152,7 +147,7 @@ namespace _02_ClaimsUI
             Console.Write("Enter a claim description: ");
             string desc = Console.ReadLine();
 
-            Console.Write("Amount of Damage: ");
+            Console.Write("Amount of Damage: $");
             decimal damageAmount = decimal.Parse(Console.ReadLine());
 
            
@@ -164,7 +159,7 @@ namespace _02_ClaimsUI
             string claimDatestr = Console.ReadLine();
             DateTime claimDate = DateTime.Parse(claimDatestr);
          
-            Claims newClaim = new Claims(claimID, , desc, damageAmount, accidentDate, claimDate);
+            Claims newClaim = new Claims(claimID, newType, desc, damageAmount, accidentDate, claimDate);
 
             _claimRepo.AddClaimToDirectory(newClaim);
 
